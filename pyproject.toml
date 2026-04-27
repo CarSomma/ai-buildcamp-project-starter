@@ -1,7 +1,7 @@
 [project]
-name = "ai-buildcamp-project"
+name = "eu-climate-policy-agentic-rag"
 version = "0.1.0"
-description = "My AI Engineering Buildcamp project"
+description = "Agentic RAG assistant for EU climate policy documents: retrieves and synthesizes answers from official sources, with web search fallback"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

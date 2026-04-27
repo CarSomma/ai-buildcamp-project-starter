@@ -1,14 +1,14 @@
-# Your Project Name
+# EU Climate Policy Q&A RAG Assistant
 
-A starter template for the AI Engineering Buildcamp capstone. Replace this README with a description of your own project.
+A retrieval-augmented generation (RAG) system that helps students and early-stage policy learners navigate EU climate policy documents quickly and accurately.
 
 ## The Problem
 
-Describe the problem your project solves and who has it. One or two sentences.
+Students and early-stage policy learners struggle to understand EU climate policy because key information is spread across multiple complex and technical documents, such as the European Climate Law and related EU policy pages. This makes it difficult to extract accurate, connected, and trustworthy answers without misinterpretation.
 
 ## What It Does
 
-Describe what the AI system does and a typical interaction. What does the user provide? What does the system return?
+A user asks a question like: *"How does the EU's 2030 climate target relate to the 2050 goal?"* The system uses an **Agentic RAG approach** to retrieve relevant passages from official documents, decides whether the information is sufficient, and returns a clear, concise answer with citations. If the documents do not contain enough information, the system either explicitly states that or supplements the answer using a web search tool with external sources.
 
 ## Setup
 
