@@ -8,7 +8,7 @@ Students and early-stage policy learners struggle to understand EU climate polic
 
 ## What It Does
 
-A user asks a question like: *"How does the EU's 2030 climate target relate to the 2050 goal?"* The system uses an **Agentic RAG approach** to retrieve relevant passages from official documents, decides whether the information is sufficient, and returns a clear, concise answer with citations. If the documents do not contain enough information, the system either explicitly states that or supplements the answer using a web search tool with external sources.
+A user asks a question like: *"How does the EU's 2030 climate target relate to the 2040 goal?"* The system uses an **Agentic RAG approach** to retrieve relevant passages from official documents, decides whether the information is sufficient, and returns a clear, concise answer with citations. If the documents do not contain enough information, the system either explicitly states that or supplements the answer using a web search tool with external sources.
 
 ## Setup
 
