@@ -5,8 +5,11 @@ description = "Agentic RAG assistant for EU climate policy documents: retrieves 
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "beautifulsoup4>=4.14.3",
     "jupyter>=1.0.0",
     "minsearch>=0.0.5",
     "openai>=1.50.0",
+    "playwright>=1.59.0",
     "python-dotenv>=1.0.0",
+    "requests>=2.33.1",
 ]
